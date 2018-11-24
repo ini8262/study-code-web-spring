@@ -20,7 +20,7 @@ public class BoardMapperTests {
 	private BoardMapper mapper;
 
 	@Test
-//	@Ignore
+//	@Igcnore
 	public void testGetList() {
 		log.info("hello");
 		mapper.getList().forEach(board -> log.info(board));
