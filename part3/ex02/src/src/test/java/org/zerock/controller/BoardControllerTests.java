@@ -37,7 +37,6 @@ public class BoardControllerTests {
 	}
 
 	@Test
-	@Ignore
 	public void testList() throws Exception {
 
 		//get
